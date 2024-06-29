@@ -27,11 +27,6 @@ class GridViewOne extends StatelessWidget {
                 children: [
                   Text(
                     'CARD ${index + 1}',
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 18,
-                      fontWeight: FontWeight.bold,
-                    ),
                   ),
                 ],
               ),
