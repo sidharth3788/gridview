@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gridview/gridview1.dart';
+import 'package:gridview/gridview.dart';
 
 void main() {
   runApp(const MyApp());
